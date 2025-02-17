@@ -1,7 +1,8 @@
 # Samsung-Stock-Analysis
 Analyzing Samsung Group's market performance and innovation strategy using data analytics and market research, this project uncovers insights into its growth trajectory, market capitalization, and competitive position.
 
-Project Overview
+Overview
+
 This project analyzes Samsung's stock data (2024) to explore price trends, trading volumes, volatility, and potential investment insights. Using PySpark and Pandas, we conduct exploratory data analysis (EDA), visualize trends, and apply technical indicators.
 
 Analysis Performed
